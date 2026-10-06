@@ -3,4 +3,4 @@ pandas
 matplotlib
 openpyxl
 gspread
-bumpy
+numpy
