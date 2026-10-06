@@ -2,7 +2,7 @@
 
 A desktop stock history viewer built with Python and Tkinter. Type a ticker, see its full daily open/close history in a color-coded table, a 3-month price chart, and the company name. Compare several stocks in split panes, search by date, and export to CSV, Excel or Google Sheets.
 
-> **Coded by [Claude](https://www.anthropic.com/claude), an AI assistant made by Anthropic.** The project owner directed the design and feature set; Claude wrote the code.
+> **Coded by [Claude](https://www.anthropic.com/claude), an AI assistant made by Anthropic.** 
 
 ---
 
@@ -138,5 +138,3 @@ Market data comes from Yahoo Finance via an unofficial library and may be delaye
 Written by **Claude** (Anthropic) at the request of the project owner.
 
 ## License
-
-Add the license of your choice (for example MIT) as a `LICENSE` file.
